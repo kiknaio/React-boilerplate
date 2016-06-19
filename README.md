@@ -1,2 +1,3 @@
+![React Logo](https://camo.githubusercontent.com/1f7aaa4af03e21d7131c9191605aab6019560ef3/687474703a2f2f6465762e746f7068656d616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30342f6c6f676f2d72656163746a732e706e67)
 # React-boilerplate
 React boilerplate with ES6 and Webpack
